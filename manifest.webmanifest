@@ -1,0 +1,15 @@
+{
+  "name": "SecForge — Security Architect Academy",
+  "short_name": "SecForge",
+  "description": "Training ground for Security Architects: 12 theory modules, 13 hands-on labs, phishing arcade, and a full cybersecurity career map. Offline-capable.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0e14",
+  "theme_color": "#0a0e14",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
