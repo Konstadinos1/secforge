@@ -1,6 +1,6 @@
 /* SecForge service worker — network-first, offline fallback (stale content never wins) */
 'use strict';
-const CACHE = 'secforge-v3';
+const CACHE = 'secforge-v4-igloo';
 const ASSETS = [
   './',
   './index.html',
